@@ -1,0 +1,2 @@
+# Game--Virtual-Dance-Tutor-prototype
+A virtual reality dance studio where your foot steps are tracked by the Myo sensors (using their gyroscope sensors) on each foot. Players are awarded points for demonstrating correct footwork, as well as given visual feedback of their character moving when they correctly step. This game is more of a prototype and was made in 48 hours at a hackathon (Quack Hack 2016)
